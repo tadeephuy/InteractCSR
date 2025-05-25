@@ -2,4 +2,9 @@
 
 Paper: https://arxiv.org/pdf/2503.06873
 
+Demo: https://www.youtube.com/watch?v=dTb_n7UMMR4
+
 Code coming soon.
+
+
+
